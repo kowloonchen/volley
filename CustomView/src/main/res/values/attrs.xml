@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OvalButton">
+        <attr name="borderColor" format="integer"/>
+        <attr name="borderSize" format="integer"/>
+    </declare-styleable>
+
+</resources>
